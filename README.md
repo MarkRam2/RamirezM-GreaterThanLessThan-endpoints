@@ -1,8 +1,13 @@
 # RamirezM-GreaterThanLessThan-endpoints
 
-you should copy this link into the top most search bar
- http://localhost:5102/GreaterThanLessThan/Greater/
- you should only be putting whole numbers 
- after this you will adding two numbersafter the last slash "/" seperated by a slash for example 10/20 and then add something like this what ever numbers you choose 
- and it should add them together for example if you put 10 and 20 it would give you it will say 
- number 10 is less than number 20.
+to start the program you will have to start the debug in vs code you will then have to go into the debug console and copy the urls from there
+it should look like this the number may diffrent http://localhost:5028 
+
+you will have to add /GreaterThanLessThan/Greater/ so it will look like this
+http://localhost:5028/GreaterThanLessThan/Greater/
+
+after you will choose two numbers and add them like this 
+20/30 so your url will look like this http://localhost:5028/GreaterThanLessThan/Greater/20/30
+you will then be told weather or no the first number is equal to greater than or less the second one
+
+you will then add this to the omnibox
